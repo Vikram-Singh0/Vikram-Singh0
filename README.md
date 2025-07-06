@@ -49,7 +49,11 @@
 <br>
 <br>
   <br>
-<p><a href="https://git.io/praveenscience"><img src="https://activity-graph.vercel.com/graph?username=Vikram-Singh0&amp;theme=tokyonight" alt="Vikram's GitHub Activity Graph"></a></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
 
 <h2 id="by-the-way-here-are-some-of-my-statistics">By the way here are some of my statistics 🚀</h2>
